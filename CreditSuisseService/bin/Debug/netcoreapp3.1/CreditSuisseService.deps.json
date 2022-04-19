@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CreditSuisseService/1.0.0": {
+        "dependencies": {
+          "CreditSuisseBusiness": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "3.1.24"
+        },
+        "runtime": {
+          "CreditSuisseService.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/3.1.24": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.24"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "3.1.24.0",
+            "fileVersion": "3.100.2422.18002"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.24": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "3.1.24.0",
+            "fileVersion": "3.100.2422.18002"
+          }
+        }
+      },
+      "CreditSuisseBusiness/1.0.0": {
+        "runtime": {
+          "CreditSuisseBusiness.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreditSuisseService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection/3.1.24": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-edKD2klSQqQood/i/S8Wcwj7GdpJrx6YNx6aEwrrD9HPb9E9b6K1jhAEqd5Pjy3YrIgB+lG4a59GB8ZkVDRN6A==",
+      "path": "microsoft.extensions.dependencyinjection/3.1.24",
+      "hashPath": "microsoft.extensions.dependencyinjection.3.1.24.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.24": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vUVCGgYpwKK3C20t0swdxWKTmom3TByacyyj/sEMPWjfufcGxNM2W+qxgBOTMucFQpvbyPwBIFKAik7gYYFqxw==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.24",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.3.1.24.nupkg.sha512"
+    },
+    "CreditSuisseBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

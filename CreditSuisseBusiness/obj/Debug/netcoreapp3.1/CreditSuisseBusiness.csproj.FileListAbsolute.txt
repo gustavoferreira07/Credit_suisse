@@ -1,0 +1,13 @@
+C:\Users\gugag\OneDrive\Área de Trabalho\CreditSuisse\CreditSuisseBusiness\bin\Debug\netcoreapp3.1\CreditSuisseBusiness.exe
+C:\Users\gugag\OneDrive\Área de Trabalho\CreditSuisse\CreditSuisseBusiness\bin\Debug\netcoreapp3.1\CreditSuisseBusiness.deps.json
+C:\Users\gugag\OneDrive\Área de Trabalho\CreditSuisse\CreditSuisseBusiness\bin\Debug\netcoreapp3.1\CreditSuisseBusiness.runtimeconfig.json
+C:\Users\gugag\OneDrive\Área de Trabalho\CreditSuisse\CreditSuisseBusiness\bin\Debug\netcoreapp3.1\CreditSuisseBusiness.runtimeconfig.dev.json
+C:\Users\gugag\OneDrive\Área de Trabalho\CreditSuisse\CreditSuisseBusiness\bin\Debug\netcoreapp3.1\CreditSuisseBusiness.dll
+C:\Users\gugag\OneDrive\Área de Trabalho\CreditSuisse\CreditSuisseBusiness\bin\Debug\netcoreapp3.1\CreditSuisseBusiness.pdb
+C:\Users\gugag\OneDrive\Área de Trabalho\CreditSuisse\CreditSuisseBusiness\obj\Debug\netcoreapp3.1\CreditSuisseBusiness.csprojAssemblyReference.cache
+C:\Users\gugag\OneDrive\Área de Trabalho\CreditSuisse\CreditSuisseBusiness\obj\Debug\netcoreapp3.1\CreditSuisseBusiness.AssemblyInfoInputs.cache
+C:\Users\gugag\OneDrive\Área de Trabalho\CreditSuisse\CreditSuisseBusiness\obj\Debug\netcoreapp3.1\CreditSuisseBusiness.AssemblyInfo.cs
+C:\Users\gugag\OneDrive\Área de Trabalho\CreditSuisse\CreditSuisseBusiness\obj\Debug\netcoreapp3.1\CreditSuisseBusiness.dll
+C:\Users\gugag\OneDrive\Área de Trabalho\CreditSuisse\CreditSuisseBusiness\obj\Debug\netcoreapp3.1\CreditSuisseBusiness.pdb
+C:\Users\gugag\OneDrive\Área de Trabalho\CreditSuisse\CreditSuisseBusiness\obj\Debug\netcoreapp3.1\CreditSuisseBusiness.genruntimeconfig.cache
+C:\Users\gugag\OneDrive\Área de Trabalho\CreditSuisse\CreditSuisseBusiness\obj\Debug\netcoreapp3.1\CreditSuisseBusiness.csproj.CoreCompileInputs.cache

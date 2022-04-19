@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NCHToH/eKONulXz4N4h0ORhDVf8bK8uixFaSSk74oxhlWOQyqmOZvL4JxUJLLfPo/iJxEd3lIzCyhor8ehzwFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gugag\\OneDrive\\Área de Trabalho\\CreditSuisse\\CreditSuisseService\\CreditSuisseService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gugag\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.24\\microsoft.extensions.dependencyinjection.3.1.24.nupkg.sha512",
+    "C:\\Users\\gugag\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.24\\microsoft.extensions.dependencyinjection.abstractions.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
